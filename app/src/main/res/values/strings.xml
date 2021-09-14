@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application11</string>
+
+    <string name="hello">Hello, World!</string>
+    <string name="massive">Massive:  </string>
+    <string name="min">Min: </string>
+    <string name="max">Max: </string>
+    <string name="play">Play</string>
+</resources>
